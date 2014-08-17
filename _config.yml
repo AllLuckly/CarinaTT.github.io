@@ -5,11 +5,12 @@ reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://nianxi.net
+# url:              http://0.0.0.0:4000
 
 # Owner/author information
 owner:
   name:           念 茜
-  avatar:         avatar.jpg
+  avatar:         me.jpeg
   bio:            "我就是那个单线程妞."
   email:          yiyaaixuexi@gmail.com
   # Social networking links used in footer. Update and remove as you like.
