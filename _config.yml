@@ -11,20 +11,20 @@ url:              http://nianxi.net
 owner:
   name:           念 茜
   avatar:         me.jpeg
-  bio:            "一个单线程妞"
+  bio:            "一个单线程妞。"
   email:          yiyaaixuexi@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        CarinaTiantian
   facebook:
   github:
-  stackexchange:  yiyaaixuexi@gmail.com
+  stackexchange:  904698
   linkedin:
   instagram:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    yiyaaixuexi@gmail.com
+  google_plus:    +Carina
 
 # Background image to be tiled on all pages
 background:
