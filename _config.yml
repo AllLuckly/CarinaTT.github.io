@@ -1,6 +1,6 @@
-title:            Welcome to NianXi's blog
-description:      念茜的博客.
-disqus_shortname:
+title:            Carina's Blog
+description:      念茜的博客
+disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -11,20 +11,20 @@ url:              http://nianxi.net
 owner:
   name:           念 茜
   avatar:         me.jpeg
-  bio:            "我就是那个单线程妞."
+  bio:            "一个单线程妞"
   email:          yiyaaixuexi@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        CarinaTiantian
   facebook:
   github:
-  stackexchange:
+  stackexchange:  yiyaaixuexi@gmail.com
   linkedin:
   instagram:
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  google_plus:    yiyaaixuexi@gmail.com
 
 # Background image to be tiled on all pages
 background:

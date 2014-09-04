@@ -5,9 +5,7 @@ description: "Just about everything you'll need to style in the theme: headings,
 modified: 2013-05-31
 tags: [sample post]
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: abstract-6.jpg
 comments: true
 share: true
 ---
