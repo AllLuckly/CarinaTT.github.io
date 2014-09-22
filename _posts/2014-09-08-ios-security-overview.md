@@ -5,7 +5,7 @@ description: "Security for iOS Mobile Applications"
 category: iOS
 tags: [iOS应用安全攻防]
 imagefeature: pic-2014-09-08.jpg
-comments: false
+comments: true
 mathjax: null
 featured: true
 published: true
