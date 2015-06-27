@@ -48,7 +48,6 @@ h3 {
   line-height: 24px;
   margin-top: 24px;
   margin-bottom: 20px;
-  text-transform: uppercase;
 }
 h3 small {
   font-size: 13px;
@@ -96,7 +95,7 @@ a:hover {
 }
 /* - Blockquote - */
 blockquote {
-  padding-left: 0;
+  padding-left: 24px;
   border: 0;
   position: relative;
 }
@@ -105,7 +104,7 @@ blockquote:before {
   position: absolute;
   top: 12px;
   bottom: 12px;
-  left: -24px;
+  left: 0px;
   width: 4px;
 }
 .cursive {
@@ -113,6 +112,10 @@ blockquote:before {
   color: #17e4d8;
   font-size: 34px;
   text-align: center;
+}
+blockquote p {
+  color: #666666;
+  font-size: 90%;
 }
 /* - Form elements - */
 select,
@@ -3267,12 +3270,12 @@ img.mfp-img {
 }
 
 tt,code,kbd,samp,pre {
-    font-family: 'source-code-pro',monospace;
+    font-family: menlo,'source-code-pro',monospace;
 }
 
 p code,li code {
-    padding: 0 5px;
-    margin: 0 2px;
+    padding: 0 0 5 0px;
+    margin: 5px;
     white-space: nowrap;
     background-color: #f2f2f2;
     border: 1px solid #e6e6e6;
